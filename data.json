@@ -1,0 +1,7 @@
+{
+    "book" : "na drini cuprija",
+    "broj": 89,
+    "autor": {
+        "datum_rodjenja": 1987
+    }
+}
